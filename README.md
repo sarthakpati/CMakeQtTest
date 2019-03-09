@@ -14,3 +14,5 @@ If you want to deploy your application on macOS, I would recommend you read belo
 ## References
   * CMake manual: https://qt-project.org/doc/qt-5.0/qtdoc/cmake-manual.html
   * Using CMake with Qt 5: https://www.kdab.com/using-cmake-with-qt-5/
+  * https://stackoverflow.com/questions/51556088/cmake-copy-dependencies-to-executable-output-path/51569345#51569345
+  * https://riptutorial.com/qt/example/24344/deploying-on-mac
